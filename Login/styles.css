@@ -1,0 +1,182 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: auto;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    background-image: url(./img/1056682.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.767);
+    background-blend-mode: screen;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 16px;
+    padding-top: 50px;
+}
+
+main {
+    flex: 8;
+    flex-direction: column;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.767);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.mainSenha {
+    padding-left: 54px;
+    padding-right: 54px;
+}
+
+footer {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.767);
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-bottom: 10px;
+}
+
+input {
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.inputs #login {
+    margin-top: 40px;
+}
+
+.inputs #pais {
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.inputs #celular {
+    width: 260px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 0 0 10px #ffffff;
+}
+
+.inputs {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.insc {
+    padding-left: 5px;
+}
+
+.insc a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.insc a:hover {
+    text-decoration: underline;
+}
+
+.botao {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.botao button:hover {
+    box-shadow: 0 0 10px #ffffff;
+}
+
+.botao button {
+    background: #AAEE33;
+    border-radius: 8px;
+    width: 136px;
+    height: 28px;
+    left: 652px;
+    top: 516px;
+}
+
+.botao #reMail {
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.botao #Enviar {
+    margin-top: 30px;
+}
+
+.alternativa {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.alternativa a {
+    text-decoration: none;
+    color: #ffffff;
+    line-height: 25px;
+}
+
+.alternativa a:hover {
+    text-decoration: underline;
+}
+
+.opcaoRec {
+    margin-bottom: 100px;
+}
+
+.opcaoRec a {
+    text-decoration: none;
+    color: #ffffff;
+    line-height: 25px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    line-height: 2.5;
+}
+
+.opcaoRec a:hover {
+    text-decoration: underline;
+}
