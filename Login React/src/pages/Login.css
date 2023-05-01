@@ -1,0 +1,97 @@
+main {
+    flex: 8;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.767);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+    
+}
+input {
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+input {
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 0 0 10px #ffffff;
+}
+
+.inputs #login {
+    margin-top: 40px;
+}
+
+.inputs {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.alternativa {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.alternativa a {
+    text-decoration: none;
+    color: #ffffff;
+    line-height: 25px;
+}
+
+
+.alternativa a:hover {
+    text-decoration: underline;
+}
+
+.insc {
+    padding-left: 5px;
+}
+
+.insc a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.insc a:hover {
+    text-decoration: underline;
+}
+
+.botao button:hover {
+    box-shadow: 0 0 10px #ffffff;
+}
+
+.botao button {
+    background: #AAEE33;
+    border-radius: 8px;
+    width: 136px;
+    height: 28px;
+    left: 652px;
+    top: 516px;
+}
+
+.botao {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

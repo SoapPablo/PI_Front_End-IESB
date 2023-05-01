@@ -1,0 +1,10 @@
+.divAjuda {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    font-size: large;
+    padding-left: 26px;
+    padding-right: 26px;
+}
+    
+    
