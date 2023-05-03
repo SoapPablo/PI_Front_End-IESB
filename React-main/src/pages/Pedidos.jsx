@@ -31,6 +31,12 @@ export default function Pedidos() {
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="FORZA 7"
                     />
+
+                    <img
+                        src="https://bdjogos.com.br/capas/23012018145905-God-of-War-Playstation-4-capa-1.jpg"
+                        className="w-100 shadow-1-strong rounded mb-4"
+                        alt="GTA"
+                    />
                 </div>
                 <div className="col-lg-4 mb-4 mb-lg-0">
 
@@ -44,23 +50,17 @@ export default function Pedidos() {
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="MARIO WORD"
                     />
-
-                    <img
-                        src="https://bdjogos.com.br/capas/23012018145905-God-of-War-Playstation-4-capa-1.jpg"
-                        className="w-100 shadow-1-strong rounded mb-4"
-                        alt="GTA"
-                    />
                 </div>
 
                 <div className="col-lg-4 mb-4 mb-lg-0">
                     <img
-                        src="https://i.pinimg.com/originals/d6/97/34/d69734166275297d36a06767a76108b3.jpg"
+                        src="https://img.r7.com/images/2014/12/02/5cy8ixqbf2_40rlrehwpa_file?dimensions=771x420&no_crop=true"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="ANIMES"
                     />
 
                     <img
-                        src="https://i.pinimg.com/originals/11/68/89/116889de7a1d09316e376501f77a05b3.jpg"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyd9KIhLi8khF3JtpBzSKYOUvLDxSrbStneSbGfH-KkOjnk5UHPPZro8S5J8BKMfSGNvQ&usqp=CAU"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="4K GAMES"
                     />
@@ -68,43 +68,43 @@ export default function Pedidos() {
                 <div className="col-lg-4 mb-4 mb-lg-0">
 
                     <img
-                        src="https://meups.com.br/wp-content/uploads/2020/09/WALLPAPER_Avengers_8.jpg"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnZOZ-IAEueiNO6gk1_fnz7L420-HHuT1NA&usqp=CAU"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="AVENGERS"
                     />
                     <img
-                        src="https://www.gottabemobile.com/wp-content/uploads/2017/06/Forza7HERO-1-hero-720x404.jpg"
+                        src="https://revolutionarena.com.br/wp-content/uploads/2022/08/Assassins_Creed_3_capa.png"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="MARIO WORD"
-                    />
-
-                    <img
-                        src="https://w.forfun.com/fetch/8b/8b75082978499d655d0eee8e70b3c156.jpeg"
-                        className="w-100 shadow-1-strong rounded mb-4"
-                        alt="GTA"
                     />
                 </div>
 
                 <div className="col-lg-4 mb-4 mb-lg-0">
                     <img
-                        src="https://i.pinimg.com/originals/d6/97/34/d69734166275297d36a06767a76108b3.jpg"
+                        src="https://s2.glbimg.com/ZwjPuONt3moMOmun1irfaXEvULw=/0x0:405x504/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/I/U/EZGWMVR2qe7TAViiht0A/image005.jpg"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="ANIMES"
                     />
 
                     <img
-                        src="https://i.pinimg.com/originals/11/68/89/116889de7a1d09316e376501f77a05b3.jpg"
+                        src="https://s2.glbimg.com/HUzw6k3aZoPqk7lzVkGTRxvR4ak=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/1/B/SBTBdDQaGDkYQlfFRuVg/fifa-23-mbappe-kerr-ultimate-edition-2.jpg"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="4K GAMES"
                     />
                 </div>
                 <div className="col-lg-4 col-md-12 mb-4 mb-lg-0">
                     <img
-                        src="https://wallpaper4k.com.br/wp-content/uploads/2022/11/wallpapers-do-super-mario-em-4k-para-pc-e-celular-41.png"
+                        src="https://upload.wikimedia.org/wikipedia/pt/1/1b/Little_Nightmares_capa_do_jogo.jpg"
                         className="w-100 shadow-1-strong rounded mb-4"
                         alt="FORZA 7"
                     />
+                    <img
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OaXumIAA2pa_EFk3pVZxgzK1ElCpGJBsUg&usqp=CAU"
+                        className="w-100 shadow-1-strong rounded mb-4"
+                        alt="GTA"
+                    />
                 </div>
+
             </div>
         </Section>
     )
