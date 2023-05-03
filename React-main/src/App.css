@@ -71,3 +71,22 @@ h2 {
 h2:hover{
   text-shadow: 0.1em 0.1em 0.2em black
 }
+.botão {
+  background-color:blue;
+  color: aliceblue;
+}
+.alinhado {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.textsobre {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  color: #000000;
+  flex-direction: column;
+  padding: 50px;
+  margin: 50px;
+}
